@@ -11,7 +11,7 @@ const Ackee = () => {
       domainId: BLOG.ANALYTICS_ACKEE_DOMAIN_ID
     },
     {
-      detailed: false,
+      detailed: true,
       ignoreLocalhost: true
     }
   )
